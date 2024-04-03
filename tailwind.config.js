@@ -10,6 +10,7 @@ export default {
         paypalLight2: "#0093d5",
         paypalGrey1: "#accee3",
         paypalGrey2: "#e5eff6",
+        paypalSecondary: "#f6f5ef",
       },
     },
   },
